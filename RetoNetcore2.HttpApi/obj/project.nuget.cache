@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "5SC8VCAlZvAPeBZZVPW9Pd9j385IZDWV5ZS9BbcgY4f9Ywti+mVK6rMC02IQY8BL0sz4mKTPdfNANkXjoscXqQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\dpilacua\\Desktop\\RetoNetCore2\\RetoNetcore2.HttpApi\\RetoNetcore2.HttpApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dpilacua\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\dpilacua\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\dpilacua\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\dpilacua\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\dpilacua\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\dpilacua\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

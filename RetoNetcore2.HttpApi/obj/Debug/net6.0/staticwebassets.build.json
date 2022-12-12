@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FjSiw8mPaSYDsV90xAFlJhoGXTXKY7q5flDdDoMbbRg=",
+  "Source": "RetoNetcore2.HttpApi",
+  "BasePath": "_content/RetoNetcore2.HttpApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
